@@ -1,0 +1,7 @@
+$width: 66%;
+$header-color: #34495E;
+
+@mixin margin-auto {
+    width: $width;
+    margin: 0 auto;
+}
