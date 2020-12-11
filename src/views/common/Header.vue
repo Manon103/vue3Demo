@@ -164,6 +164,7 @@ export default {
                 font-weight: 600;
                 img {
                     height: 36px;
+                    padding-left: 40px;
                 }
             }
             .right{
